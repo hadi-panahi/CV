@@ -1,0 +1,27 @@
+
+hr {
+    /*border-style: dotted;*/
+    border-style: none;
+    border-top-style: dotted;
+    /*background-color: white;*/
+    border-color: gray;
+    height: 3px;
+    width: 6%;
+    border-width: 5px;
+}
+.c-work__hero--shape {
+    background: linear-gradient(6deg,#dacdff 1%,#9AD0EC 64%),#ffeaee;
+    margin-bottom: 0;
+}
+body {
+    background-color: #EEEEEE;
+}
+h1 {
+    color: #11468F;
+}
+h3 {
+    color: #DA1212;
+}
+p {
+    color: #041562;
+}
