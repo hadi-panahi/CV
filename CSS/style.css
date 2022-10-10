@@ -160,7 +160,7 @@ div {
 }
 .contact_container {
     width: 15%;
-    display: block;
+    display: inline-block;
     padding: 10px 10px 10px 10px;
     text-align: center;
     /*padding: 10%;*/
