@@ -159,7 +159,7 @@ div {
     /*padding: 100px 100px 0 0 ;*/
 }
 .contact_container {
-    width: 10%;
+    width: 5%;
     display: block;
     padding: 10px 10px 10px 10px;
     text-align: center;
@@ -172,7 +172,7 @@ div {
     text-align: justify;
 }
 .width_description {
-    width: 5%;
+    width: 15%;
     text-align: right;
 }
 .btn {
